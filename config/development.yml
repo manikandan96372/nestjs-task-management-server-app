@@ -1,0 +1,11 @@
+db:
+  type : ''
+  database : ''
+  port : 5432
+  synchronize : true
+  username: ''
+  password: ''
+  host: ''
+
+jwt:
+  secret : ''
